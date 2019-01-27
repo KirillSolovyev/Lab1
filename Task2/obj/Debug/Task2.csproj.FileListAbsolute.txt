@@ -1,0 +1,6 @@
+C:\Users\Kirill\source\repos\Task1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Kirill\source\repos\Task1\Task2\bin\Debug\Task2.exe
+C:\Users\Kirill\source\repos\Task1\Task2\bin\Debug\Task2.pdb
+C:\Users\Kirill\source\repos\Task1\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Task1\Task2\obj\Debug\Task2.exe
+C:\Users\Kirill\source\repos\Task1\Task2\obj\Debug\Task2.pdb
