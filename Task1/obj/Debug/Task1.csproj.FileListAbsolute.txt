@@ -1,0 +1,7 @@
+C:\Users\Kirill\source\repos\Lab1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Kirill\source\repos\Lab1\Task1\bin\Debug\Task1.exe
+C:\Users\Kirill\source\repos\Lab1\Task1\bin\Debug\Task1.pdb
+C:\Users\Kirill\source\repos\Lab1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\Lab1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Lab1\Task1\obj\Debug\Task1.exe
+C:\Users\Kirill\source\repos\Lab1\Task1\obj\Debug\Task1.pdb
